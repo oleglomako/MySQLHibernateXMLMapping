@@ -1,1 +1,1 @@
-# MySQLHibernateXMLMapping - Как работать с MySQL в Java
+# MySQLHibernateXMLMapping - mapping MySQL using XML file for Hibernate
