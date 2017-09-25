@@ -1,1 +1,1 @@
-Mapping MySQL using XML file for Hibernate
+Mapping MySQL tables using XML file for Hibernate
